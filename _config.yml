@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
