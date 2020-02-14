@@ -35,7 +35,7 @@ connect financial institutions and automobiles with people.</p>
  
  ### ACADEMICS
  
- I have done Bachelors in Computer Science and Engineering during _**2010-2014**_
+ I have done _**Bachelors in Computer Science and Engineering**_ during _**2010-2014**_
  from _**Rajeev Institute of Technology, Hassan**_. Affiliated to _**Visvesvaraya Technological University**_.
  
  ### PROJECTS
