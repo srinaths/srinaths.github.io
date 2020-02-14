@@ -12,20 +12,22 @@ connect financial institutions and automobiles with people.</p>
 
 ### TECHNICAL SKILLS
 
-#### Programming
- - Proficient in Java SE 8.
- - Hands-on experience working with Python, .NET and node js.  
+**Programming**
+> - Proficient in Java SE 8.  
+> - Hands-on experience working with Python, .NET and node js.
 
-#### Technologies and tools
- - _**Frameworks:**_ Spring Boot, flask and express.
- - _**Unit testing and code coverage:**_ JUnit, Mockito and Jacoco.
- - _**Dependency Management and SCM:**_ Maven, Gradle, Git and SVN.
- - _**Protocol standards:**_ HTTP, REST, protobuf/gRPC and web sockets.
- - _**Application Security:**_ openssl, TLS mutual authentication and quota management using API manager.
- - _**Data storage:**_ MySQL, MS SQL Server, Elastic Search
- - _**Log aggregation and monitoring:**_ Spring cloud sleuth, Application insights, fluentd and Prometheus.
- - _**Cloud deployment and infrastructure:**_ Docker, Kubernetes and Azure components such as Service-bus, Event-hub, IoT Hub, Storage Account etc.
- - _**CI/CD:**_ Azure Devops (VSTS) pipelines, Jenkins and GitLab.
+   
+
+**Technologies and tools**
+ > - _**Frameworks:**_ Spring Boot, flask and express.
+ > - _**Unit testing and code coverage:**_ JUnit, Mockito and Jacoco.
+ > - _**Dependency Management and SCM:**_ Maven, Gradle, Git and SVN.
+ > - _**Protocol standards:**_ HTTP, REST, protobuf/gRPC and web sockets.
+ > - _**Application Security:**_ openssl, TLS mutual authentication and quota management using API manager.
+ > - _**Data storage:**_ MySQL, MS SQL Server, Elastic Search
+ > - _**Log aggregation and monitoring:**_ Spring cloud sleuth, Application insights, fluentd and Prometheus.
+ > - _**Cloud deployment and infrastructure:**_ Docker, Kubernetes and Azure components such as Service-bus, Event-hub, IoT Hub, Storage Account etc.
+ > - _**CI/CD:**_ Azure Devops (VSTS) pipelines, Jenkins and GitLab.
  
  ### EXPERIENCE
  
