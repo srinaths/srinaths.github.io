@@ -5,12 +5,12 @@ r.srinath@live.com_
 
 ****
 
-### SUMMARY
+## SUMMARY
 <p>I have 5 years of experience in the design, development, and deployment of secure and scalable online applications that 
 connect financial institutions and automobiles with people.</p>
 <p>Good at Spring Boot, Docker and Kubernetes.Great in watching movies and series.</p>
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 **Programming**
 > - Proficient in Java SE 8.  
@@ -29,7 +29,7 @@ connect financial institutions and automobiles with people.</p>
  > - _**Cloud deployment and infrastructure:**_ Docker, Kubernetes and Azure components such as Service-bus, Event-hub, IoT Hub, Storage Account etc.
  > - _**CI/CD:**_ Azure Devops (VSTS) pipelines, Jenkins and GitLab.
  
- ### EXPERIENCE
+ ## EXPERIENCE
  
  |Organization|Role|Duration|
  |---|---|---|
@@ -37,14 +37,14 @@ connect financial institutions and automobiles with people.</p>
  |Finastra Financial Software|Software Engineer|16-05-2016 to 05-04-2019|
  |Thinkcore technologies pvt. ltd.|Software Engineer|08-04-2015 to 13-05-2019|
  
- ### ACADEMICS
+ ## ACADEMICS
  
  I have done _**Bachelors in Computer Science and Engineering**_ during _**2010-2014**_
  from _**Rajeev Institute of Technology, Hassan**_. Affiliated to _**Visvesvaraya Technological University**_.
  
- ### PROJECTS
+ ## PROJECTS
  
- #### Trucks and Buses Connectivity (CoBa)
+ ### Trucks and Buses Connectivity (CoBa)
  _Org.: Mercedes Benz R&D India  
  Role: Senior Software Engineer_
  
@@ -62,7 +62,7 @@ connect financial institutions and automobiles with people.</p>
  
  _Awards and recognition:_ Got departmental Bronze award for demonstrating innovation and agility in product development.   
  
- #### Fusion Banking Essence (Core Banking and Localization)
+ ### Fusion Banking Essence (Core Banking and Localization)
  _Org. : Finastra FS  
  Role : Software Engineer_
  
@@ -76,7 +76,7 @@ connect financial institutions and automobiles with people.</p>
 _Tools and technologies used :_  `Java 7,Spring Framework, Hibernate, Camel, MSSQL Server`
 
 
-### PERSONAL INFO
+## PERSONAL INFO
 
 _**Name :**_ Srinath R  
 _**Contact :**_ +91 7760171800  
