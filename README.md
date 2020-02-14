@@ -11,9 +11,11 @@ connect financial institutions and automobiles with people.</p>
 <p>Good at Spring Boot, Docker and Kubernetes.Great in watching movies and series.</p>
 
 ### TECHNICAL SKILLS
+
 #### Programming
  - Proficient in Java SE 8.
- - Hands-on experience working with Python, .NET and node js.
+ - Hands-on experience working with Python, .NET and node js.  
+
 #### Technologies and tools
  - _**Frameworks:**_ Spring Boot, flask and express.
  - _**Unit testing and code coverage:**_ JUnit, Mockito and Jacoco.
