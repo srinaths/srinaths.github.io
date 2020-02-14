@@ -36,6 +36,7 @@ connect financial institutions and automobiles with people.</p>
  |Mercedes Benz Research and Development India|Senior Software Consultant|08-04-2019 till date|
  |Finastra Financial Software|Software Engineer|16-05-2016 to 05-04-2019|
  |Thinkcore technologies pvt. ltd.|Software Engineer|08-04-2015 to 13-05-2019|
+   
  
  ## ACADEMICS
  
